@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+validationPlugins=io.cucumber.shaded.gherkin.messages.internal.gherkin.Gherkin
